@@ -1,0 +1,13 @@
+prefix=/Users/tiagodavi/Documents/Projects/hello-near/integration-tests/target/debug/build/libz-sys-92c5315bbd1f9756/out
+exec_prefix=@exec_prefix@
+libdir=@libdir@
+sharedlibdir=@sharedlibdir@
+includedir=@includedir@
+
+Name: zlib
+Description: zlib compression library
+Version: @VERSION@
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

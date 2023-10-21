@@ -1,0 +1,8 @@
+/Users/tiagodavi/Documents/Projects/hello-near/integration-tests/target/debug/deps/thread_local-9485dcc3b0b65e85.rmeta: /Users/tiagodavi/.asdf/installs/rust/1.73.0/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.7/src/lib.rs /Users/tiagodavi/.asdf/installs/rust/1.73.0/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.7/src/cached.rs /Users/tiagodavi/.asdf/installs/rust/1.73.0/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.7/src/thread_id.rs /Users/tiagodavi/.asdf/installs/rust/1.73.0/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.7/src/unreachable.rs
+
+/Users/tiagodavi/Documents/Projects/hello-near/integration-tests/target/debug/deps/thread_local-9485dcc3b0b65e85.d: /Users/tiagodavi/.asdf/installs/rust/1.73.0/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.7/src/lib.rs /Users/tiagodavi/.asdf/installs/rust/1.73.0/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.7/src/cached.rs /Users/tiagodavi/.asdf/installs/rust/1.73.0/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.7/src/thread_id.rs /Users/tiagodavi/.asdf/installs/rust/1.73.0/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.7/src/unreachable.rs
+
+/Users/tiagodavi/.asdf/installs/rust/1.73.0/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.7/src/lib.rs:
+/Users/tiagodavi/.asdf/installs/rust/1.73.0/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.7/src/cached.rs:
+/Users/tiagodavi/.asdf/installs/rust/1.73.0/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.7/src/thread_id.rs:
+/Users/tiagodavi/.asdf/installs/rust/1.73.0/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.7/src/unreachable.rs:

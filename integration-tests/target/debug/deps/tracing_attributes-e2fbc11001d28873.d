@@ -1,0 +1,7 @@
+/Users/tiagodavi/Documents/Projects/hello-near/integration-tests/target/debug/deps/libtracing_attributes-e2fbc11001d28873.dylib: /Users/tiagodavi/.asdf/installs/rust/1.73.0/registry/src/index.crates.io-6f17d22bba15001f/tracing-attributes-0.1.27/src/lib.rs /Users/tiagodavi/.asdf/installs/rust/1.73.0/registry/src/index.crates.io-6f17d22bba15001f/tracing-attributes-0.1.27/src/attr.rs /Users/tiagodavi/.asdf/installs/rust/1.73.0/registry/src/index.crates.io-6f17d22bba15001f/tracing-attributes-0.1.27/src/expand.rs
+
+/Users/tiagodavi/Documents/Projects/hello-near/integration-tests/target/debug/deps/tracing_attributes-e2fbc11001d28873.d: /Users/tiagodavi/.asdf/installs/rust/1.73.0/registry/src/index.crates.io-6f17d22bba15001f/tracing-attributes-0.1.27/src/lib.rs /Users/tiagodavi/.asdf/installs/rust/1.73.0/registry/src/index.crates.io-6f17d22bba15001f/tracing-attributes-0.1.27/src/attr.rs /Users/tiagodavi/.asdf/installs/rust/1.73.0/registry/src/index.crates.io-6f17d22bba15001f/tracing-attributes-0.1.27/src/expand.rs
+
+/Users/tiagodavi/.asdf/installs/rust/1.73.0/registry/src/index.crates.io-6f17d22bba15001f/tracing-attributes-0.1.27/src/lib.rs:
+/Users/tiagodavi/.asdf/installs/rust/1.73.0/registry/src/index.crates.io-6f17d22bba15001f/tracing-attributes-0.1.27/src/attr.rs:
+/Users/tiagodavi/.asdf/installs/rust/1.73.0/registry/src/index.crates.io-6f17d22bba15001f/tracing-attributes-0.1.27/src/expand.rs:

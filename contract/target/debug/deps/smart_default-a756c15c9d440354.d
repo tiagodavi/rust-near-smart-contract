@@ -1,0 +1,8 @@
+/Users/tiagodavi/Documents/Projects/hello-near/contract/target/debug/deps/libsmart_default-a756c15c9d440354.dylib: /Users/tiagodavi/.asdf/installs/rust/1.73.0/registry/src/index.crates.io-6f17d22bba15001f/smart-default-0.6.0/src/lib.rs /Users/tiagodavi/.asdf/installs/rust/1.73.0/registry/src/index.crates.io-6f17d22bba15001f/smart-default-0.6.0/src/body_impl.rs /Users/tiagodavi/.asdf/installs/rust/1.73.0/registry/src/index.crates.io-6f17d22bba15001f/smart-default-0.6.0/src/default_attr.rs /Users/tiagodavi/.asdf/installs/rust/1.73.0/registry/src/index.crates.io-6f17d22bba15001f/smart-default-0.6.0/src/util.rs
+
+/Users/tiagodavi/Documents/Projects/hello-near/contract/target/debug/deps/smart_default-a756c15c9d440354.d: /Users/tiagodavi/.asdf/installs/rust/1.73.0/registry/src/index.crates.io-6f17d22bba15001f/smart-default-0.6.0/src/lib.rs /Users/tiagodavi/.asdf/installs/rust/1.73.0/registry/src/index.crates.io-6f17d22bba15001f/smart-default-0.6.0/src/body_impl.rs /Users/tiagodavi/.asdf/installs/rust/1.73.0/registry/src/index.crates.io-6f17d22bba15001f/smart-default-0.6.0/src/default_attr.rs /Users/tiagodavi/.asdf/installs/rust/1.73.0/registry/src/index.crates.io-6f17d22bba15001f/smart-default-0.6.0/src/util.rs
+
+/Users/tiagodavi/.asdf/installs/rust/1.73.0/registry/src/index.crates.io-6f17d22bba15001f/smart-default-0.6.0/src/lib.rs:
+/Users/tiagodavi/.asdf/installs/rust/1.73.0/registry/src/index.crates.io-6f17d22bba15001f/smart-default-0.6.0/src/body_impl.rs:
+/Users/tiagodavi/.asdf/installs/rust/1.73.0/registry/src/index.crates.io-6f17d22bba15001f/smart-default-0.6.0/src/default_attr.rs:
+/Users/tiagodavi/.asdf/installs/rust/1.73.0/registry/src/index.crates.io-6f17d22bba15001f/smart-default-0.6.0/src/util.rs:
